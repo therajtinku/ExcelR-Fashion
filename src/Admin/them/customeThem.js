@@ -4,7 +4,7 @@ const customTheme = createTheme({
   palette: {
     mode: "dark", // Set the custom color mode name here
     primary: {
-      main: '#9155FD',
+      main: '#6cd367',
     },
     secondary: {
       main: '#f48fb1',
@@ -19,7 +19,7 @@ const customTheme = createTheme({
     background: {
       default: '',
       // paper: '#121019',
-      paper:"rgb(0, 0, 22)"
+      paper:"#7d75b3"
     },
   },
  

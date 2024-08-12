@@ -161,7 +161,7 @@ export default function AdminNavbar({handleSideBarViewInMobile}) {
 // https://res.cloudinary.com/ddkso1wxi/image/upload/v1675919455/Logo/Copy_of_Zosh_Academy_nblljp.png
   return (
     <Box sx={{ flexGrow: 1 }}>
-      <AppBar position="fixed" sx={{ zIndex: (theme) => theme.zIndex.drawer + isLargeScreen, backgroundColor: 'rgb(0, 0, 22)' }}>
+      <AppBar position="fixed" sx={{ zIndex: (theme) => theme.zIndex.drawer + isLargeScreen, backgroundColor: '#7d75b3' }}>
         <Toolbar>
           {!isLargeScreen && <IconButton
             size="large"
@@ -173,7 +173,7 @@ export default function AdminNavbar({handleSideBarViewInMobile}) {
           >
             <MenuIcon />
           </IconButton>}
-          <Avatar alt="Zosh" src="https://res.cloudinary.com/ddkso1wxi/image/upload/v1675919455/Logo/Copy_of_Zosh_Academy_nblljp.png" />
+          <Avatar alt="Excelr" src="https://i.imgur.com/m0SCKUW.png" />
           <Search>
             <SearchIconWrapper>
               <SearchIcon />

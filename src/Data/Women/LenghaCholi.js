@@ -1,8 +1,8 @@
 export const lengha_page1 = [
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/u/g/a/free-half-sleeve-vbnd-fddj-astonblue-original-imagp286bmcaabbj.jpeg?q=70",
-    "brand": "AstonBlue",
+      "https://i.imgur.com/5Vh0y8B.png",
+    "brand": "Aston Black",
    "title": "Self Design Semi Stitched Lehenga Choli",
     "color": "Yellow",
     discountedPrice: "₹35,999",
@@ -30,7 +30,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/kmz7qfk0/lehenga-choli/m/0/t/s-sleeveless-l032-rayie-collection-original-imagfrbqhvddrnbd.jpeg?q=70",
+      "https://i.imgur.com/enNhVkQ.png",
     "brand": "rayie collection",
    "title": "Embroidered Stitched Lehenga & Crop Top",
     "color": "Black",
@@ -56,7 +56,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/5/n/h/l-3-4-sleeve-black-liva-original-imagmeyw2zzbch2g.jpeg?q=70",
+      "https://i.imgur.com/sYQeR9O.jpeg",
     "brand": "Liva",
    "title": "Embroidered Stitched Lehenga & Crop Top",
     "color": "Black",
@@ -81,7 +81,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/b/h/z/xl-sleeveless-owa2cd2320a-soch-original-imagjvmyhy63ms7z.jpeg?q=70",
+      "https://i.imgur.com/vkj1QMm.png",
     "brand": "soch",
    "title": "Embellished Stitched Lehenga Choli",
     "color": "Yellow",
@@ -105,7 +105,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/y/d/8/l-3-4-sleeve-green-liva-original-imagmez3duzyzzxz.jpeg?q=70",
+      "https://i.imgur.com/J6129cZ.png",
     "brand": "Liva",
    "title": "Embroidered Stitched Lehenga & Crop Top",
     "color": "Green",
@@ -130,7 +130,7 @@ export const lengha_page1 = [
   },
   {
     "imageUrl":
-      "https://rukminim1.flixcart.com/imageUrl/612/612/xif0q/lehenga-choli/j/b/g/xl-sleeveless-owa2cd2319a-soch-original-imagjvmysh3z9egk.jpeg?q=70",
+      "https://i.imgur.com/5Vh0y8B.png",
     "brand": "soch",
    "title": "Solid Stitched Lehenga Choli",
     "color": "Dark Blue",

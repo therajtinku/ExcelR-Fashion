@@ -268,7 +268,7 @@ export default function Navigation() {
                   <span className="sr-only">Your Company</span>
                   <img
                     src="https://i.imgur.com/pervwZL.png"
-                    alt="Shopwithzosh"
+                    alt="Shopwithexcelr"
                     className="h-8 w-8 mr-2"
                   />
                 </Link>
@@ -285,7 +285,7 @@ export default function Navigation() {
                             <Popover.Button
                               className={classNames(
                                 open
-                                  ? "border-indigo-600 text-indigo-600"
+                                  ? "border-green-600 text-green-600"
                                   : "border-transparent text-gray-700 hover:text-gray-800",
                                 "relative z-10 -mb-px flex items-center border-b-2 pt-px text-sm font-medium transition-colors duration-200 ease-out"
                               )}
